@@ -1,1 +1,1 @@
-[]
+[{"id":"3711bb93.c80764","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"4aa78e8.38203f","type":"inject","z":"3711bb93.c80764","name":"","props":[{"p":"payload"},{"p":"topic","vt":"str"}],"repeat":"","crontab":"","once":false,"onceDelay":0.1,"topic":"","payload":"","payloadType":"date","x":310,"y":140,"wires":[["c577efe2.d71d48"]]},{"id":"c577efe2.d71d48","type":"debug","z":"3711bb93.c80764","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","statusVal":"","statusType":"auto","x":530,"y":140,"wires":[]}]
